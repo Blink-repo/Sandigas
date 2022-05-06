@@ -1,0 +1,13 @@
+<svg width="3840" height="2160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" version="1.1">
+ <defs>
+  <mask id="SvgjsMask1257">
+   <rect id="svg_1" fill="#ffffff" height="2160" width="3840"/>
+  </mask>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(180 1935 946)" stroke="null" id="svg_2" fill="none" mask="url("#SvgjsMask1257")">
+   <path stroke="null" id="svg_3" fill="rgba(209, 216, 225, 1)" d="m-5,2.00006c387.99998,150.09487 1163.99995,740.123 1939.99992,750.47437c775.99997,10.35137 1551.99994,-558.97401 1939.99992,-698.71752l0,1836.24314l-3879.99985,0l0,-1887.99999z"/>
+  </g>
+ </g>
+</svg>
