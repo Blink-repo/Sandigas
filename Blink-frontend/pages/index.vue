@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col min-h-screen">
     <div>
-      <navbar class="w-full"/>
+      <navbar class="w-full "/>
       <div class="flex m-24 grid grid-cols-1 sm:grid-cols-2 gap-4  ">
         <div>
           <h1 class="text-5xl font-semibold">Best Plumbing & Repair <Span class="text-blue-600">Solutions</Span></h1>
@@ -17,10 +17,18 @@
           </div>
         </div>
       </div>
+      <div class="flex justify-center">
+        <contactform class="w-1/2"/>
+      </div>
     </div>
+<<<<<<< Updated upstream
   <div>
   </div>
+=======
+>>>>>>> Stashed changes
     <foot class="w-full"/>
   </div>
-</template>
+</template> 
+
+
 
