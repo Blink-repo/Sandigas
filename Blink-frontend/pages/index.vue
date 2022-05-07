@@ -18,6 +18,9 @@
         </div>
       </div>
     </div>
+  <div class="flex justify-center">
+    <contactform class=" w-3/4 lg:w-3/5"/>
+  </div>
     <info-card/>
     <foot class="w-full"/>
   </div>
