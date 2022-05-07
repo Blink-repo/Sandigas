@@ -30,8 +30,8 @@
 
           </div>
         <div>
-      <card/>
-      <card/>
+      <card title="Email" nameChild="sandigas@hotmail.be"/>  
+      <card title="GSM" nameChild="0456786576"/>
     </div>
 </div>
 
