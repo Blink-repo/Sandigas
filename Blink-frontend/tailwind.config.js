@@ -20,10 +20,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary': '#ffffff',
-        'secondary': '#000000',
-        'third': '#64c4ed',
-        'fourth': '#4f81c7',
+        'primary': '#e4f1fe',
+        'primary-hover': '#e4f1fe',
+        'secondary': '#8dc6ff',
+        'secondary-hover': '#5e8ab5',
+        'third': '#22313f',
+        'third-hover': '#1b2733',
+        'fourth': '#34495e',
+        'fourth-hover': '#34495e'
       },
     },
   },
