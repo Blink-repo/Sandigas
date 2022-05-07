@@ -18,6 +18,10 @@
         </div>
       </div>
     </div>
+  <div>
+    <contactform/>
+  </div>
     <foot class="fixed bottom-0 w-full"/>
   </div>
 </template>
+
