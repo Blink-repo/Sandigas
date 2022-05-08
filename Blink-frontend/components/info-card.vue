@@ -1,5 +1,5 @@
 <template>
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
+    <div class="my-28 grid grid-cols-1 lg:grid-cols-3 gap-4">
       <div class="m-4 p-12 shadow-lg rounded-lg hover:scale-105 hover:rounded-xl">
         <div class="flex justify-center">
           <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-house-fill text-sky-400 m-2" viewBox="0 0 16 16">
