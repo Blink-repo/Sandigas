@@ -23,6 +23,9 @@
 </template>
 
 <style>
+html{
+  scroll-behavior: smooth;
+}
 .landing-bg{
   background-color: #bbe5fd;
 }
