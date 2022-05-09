@@ -10,7 +10,7 @@
           <button type="button" class="my-6 px-5 py-3 text-base font-medium text-center text-white bg-blue-700 rounded-lg shadow-xl hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Contact Us</button>
         </div>
         <div class="hero container max-w-screen-lg mx-auto flex justify-center">
-          <img class="object-cover rounded-lg lg:w-6/12" src="assets/img/PlumberMan.png" alt="">
+          <img class="object-cover rounded-lg w-4/5 md:w-6/12" src="assets/img/PlumberMan.png" alt="">
         </div>
       </div>
     </div>
