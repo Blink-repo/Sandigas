@@ -14,8 +14,8 @@
         </button>
       </div>
       <div class="justify-between items-center w-full md:flex md:w-auto md:order-1" id="mobile-menu-4">
-        <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium transition-all ease-in-out duration-300"
-            :class="[open ? 'opacity-100 h-full' :'opacity-0 h-0']">
+        <ul class="md:flex md:flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium transition-all ease-in-out duration-300"
+            :class="[open ? '' :'hidden']">
           <li>
             <a href="" class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0" aria-current="page">Home</a>
           </li>
