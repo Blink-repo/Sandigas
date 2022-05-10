@@ -12,11 +12,11 @@
           </a>
         </div>
         <div class="hero container max-w-screen-lg mx-auto flex justify-center">
-          <img class="object-cover rounded-lg w-3/5 sm:w3/5 md:w-6/12" src="assets/img/PlumberMan.png" alt="">
+          <img class="object-cover rounded-lg w-3/5 sm:w3/5 md:w-6/12" src="/img/PlumberMan.png" alt="">
         </div>
       </div>
     </div>
-    <img src="assets/img/landingsplit.svg" alt="" class="">
+    <img src="/img/landingsplit.svg" alt="" class="">
     <info-card id="info-card"/>
     <aboutus id="aboutus" />
     <foot class="w-full"/>

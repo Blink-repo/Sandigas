@@ -1,6 +1,6 @@
 <template>
   <div class="my-20">
-    <img src="assets/img/tilttop.svg" alt="" class="rotate">
+    <img src="/img/tilttop.svg" alt="" class="rotate">
     <div class="w-full p-1 bg-[#bbe5fd]">
       <div class="m-4 lg:m-16 xl:m-24 bg-white shadow-xl rounded-lg p-4">
         <h1 class="m-6 text-4xl font-semibold">About <span class="font-bold text-blue-600">Us</span></h1>
@@ -9,7 +9,7 @@
         </div>
       </div>
     </div>
-    <img src="assets/img/tilttop.svg" alt="">
+    <img src="/img/tilttop.svg" alt="">
   </div>
 </template>
 
