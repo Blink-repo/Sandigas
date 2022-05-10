@@ -5,7 +5,7 @@
       <div class="m-4 lg:m-16 xl:m-24 bg-white shadow-xl rounded-lg p-4">
         <h1 class="m-6 text-4xl font-semibold">About <span class="font-bold text-blue-600">Us</span></h1>
         <div class="m-6 text-lg">
-          <p>Our expert plumbers are the right team to call for both residential and commercial plumbing services. We provide the fastest and most reliable maintenance and repair solutions at no extra cost or overtime charge. Our plumbers are the most recognized professionals in the world because we’re committed to amazing service and nothing wears on homeowners like the idea of handling plumbing problems. </p>
+          <p>If you are in search of a plumbing company that will serve you with excellence, then search no further than our company. We provide top-quality plumbing services to residential and commercial customers alike. No matter the size or scope of the job, our team of highly-trained and experienced plumbers will get the job done quickly and efficiently. We take pride in our workmanship and guarantee 100% customer satisfaction on every job. Contact us today to schedule a consultation.</p>
         </div>
       </div>
     </div>
