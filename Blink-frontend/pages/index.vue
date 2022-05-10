@@ -12,7 +12,7 @@
           </a>
         </div>
         <div class="hero container max-w-screen-lg mx-auto flex justify-center">
-          <img class="object-cover rounded-lg w-4/5 sm:w3/5 md:w-6/12" src="assets/img/PlumberMan.png" alt="">
+          <img class="object-cover rounded-lg w-3/5 sm:w3/5 md:w-6/12" src="assets/img/PlumberMan.png" alt="">
         </div>
       </div>
     </div>
