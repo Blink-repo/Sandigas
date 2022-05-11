@@ -20,14 +20,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary': '#e4f1fe',
-        'primary-hover': '#e4f1fe',
-        'secondary': '#8dc6ff',
-        'secondary-hover': '#5e8ab5',
-        'third': '#22313f',
-        'third-hover': '#1b2733',
-        'fourth': '#34495e',
-        'fourth-hover': '#34495e'
+        'primary': '#ececec',
+        'primary-hover': '#dedcdc',
+        'secondary': '#9fd3c7',
+        'secondary-hover': '#8abaaf',
+        'third': '#385170',
+        'third-hover': '#4f719c',
+        'fourth': '#142d4c',
+        'fourth-hover': '#1d416e'
       },
     },
   },
