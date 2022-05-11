@@ -1,12 +1,10 @@
 <template>
   <nav class="border-gray-200 px-2 sm:px-4 py-2.5 rounded transition-all duration-300 ease-in">
     <div class="container flex flex-wrap justify-between items-center mx-auto">
-      <a href="https://flowbite.com" class="flex items-center">
-<!--        <img src="/docs/images/logo.svg" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />-->
-        <span class="self-center text-xl font-semibold whitespace-nowrap">SANDIGAS</span>
-      </a>
-      <div class="flex md:order-2">
-        <a href="tel:0484794493"><button type="button" class="sm:hidden text-white bg-secondary hover:bg-secondary-hover focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0">Bel ons</button></a>
+           <img src="/public/img/logos/logo.png  " class="w-24 xs:m-1 sm:m-2 md:m-3" alt="Flowbite Logo" />
+        
+          <div class="flex md:order-2">
+        <a href="tel:+32484794493"><button type="button" class="sm:hidden text-white bg-secondary hover:bg-secondary-hover focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0">Bel ons</button></a>
         <button @click="open = !open" data-collapse-toggle="mobile-menu-4" type="button" class="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200" aria-controls="mobile-menu-4" aria-expanded="false">
           <span class="sr-only">Open main menu</span>
           <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
@@ -20,10 +18,10 @@
             <a href="" class="block py-2 pr-4 pl-3 text-white bg-secondary hover:bg-secondary-hover md:hover:bg-transparent rounded md:bg-transparent md:text-secondary md:p-0" aria-current="page">Home</a>
           </li>
           <li>
-            <a href="#info-card" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Services</a>
+            <a href="#info-card" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Diensten</a>
           </li>
           <li>
-            <a href="#aboutus" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">About</a>
+            <a href="#aboutus" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Over Ons</a>
           </li>
           <li>
             <a href="#partners" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Partners</a>

@@ -1,5 +1,5 @@
 <template>
-  <div class="my-20">
+  <div class="mt-20">
     <img src="/img/tilt.svg" alt="" class="rotate">
     <div class="w-full p-1 bg-primary">
       <div class="m-4 lg:m-16 xl:m-24 bg-white shadow-xl rounded-lg p-4">
