@@ -24,7 +24,7 @@
                 &nbsp sandigas@gmail.com</p>
             </div>
           </div>
-          <form action="mail.php" method="post">
+          <form action="https://formsubmit.co/ibrahimalouissa@gmail.com" method="post">
             <div class= "grid grid-cols-1 xl:grid-cols-2 ">
               <div class="relative  lg:m-2 mt-2 mb-2">
                 <input required type="text" name="name" id="inputvoorname" class="block px-2.5 pb-2.5  pt-4 w-full border-2 bg-primary border-secondary-hover peer-focus:border-secondary text-sm rounded-lg peer" placeholder=" " />
@@ -36,13 +36,14 @@
               </div>
             </div>
             <div class="relative lg:m-2 mt-2 mb-2">
-              <input required type="text" name="mail" id="inputemail" class="block px-2.5 pb-2.5  pt-4 w-full border-2 bg-inherit border-secondary-hover text-sm rounded-lg peer" placeholder=" " />
+              <input required type="text" name="email" id="inputemail" class="block px-2.5 pb-2.5  pt-4 w-full border-2 bg-inherit border-secondary-hover text-sm rounded-lg peer" placeholder=" " />
               <label for="inputemail" class="bg-primary absolute text-sm text-black duration-300 transform -translate-y-4 scale-75 top-2 z-10 origin-[0] px-2 peer-focus:px-2 peer-focus:rounded-lg peer-placeholder-shown:scale-100 peer-placeholder-shown:-translate-y-1/2 peer-placeholder-shown:top-1/2 peer-focus:top-2 peer-focus:scale-75 peer-focus:-translate-y-4 left-1">Email</label>
             </div>
             <div class="relative lg:m-2 mt-2 mb-2">
               <textarea required type="text" name="message" rows="4" id="inputemail" class="block px-2.5 pb-2.5  pt-4 w-full border-2 bg-inherit border-secondary-hover text-sm rounded-lg peer" placeholder=" " />
               <label for="inputemail" class="bg-primary absolute text-sm text-black duration-300 transform -translate-y-4 scale-75 top-2 z-10 origin-[0] px-2 peer-focus:px-2 peer-focus:rounded-lg peer-placeholder-shown:scale-100 peer-placeholder-shown:-translate-y-1/2 peer-placeholder-shown:top-1/2 peer-focus:top-2 peer-focus:scale-75 peer-focus:-translate-y-4 left-1">Bericht</label>
             </div>
+            <input type="hidden" name="_next" value="https://sandigas.netlify.app/">
             <button type="submit" class="mt-10 w-full bg-secondary hover:bg-secondary-hover rounded-lg pt-2 pb-2">Verzend</button>
           </form>
         </div>
