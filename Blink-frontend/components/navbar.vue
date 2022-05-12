@@ -1,7 +1,7 @@
 <template>
   <nav class="border-gray-200 px-2 sm:px-4 py-2.5 rounded transition-all duration-300 ease-in">
     <div class="container flex flex-wrap justify-between items-center mx-auto">
-           <img src="/img/logos/logo.png" class="w-24 xs:m-1 sm:m-2 md:m-3" alt="logo" />
+           <img src="/img/logos/logo.png" class="w-24 lg:w-32 xs:m-1 sm:m-2 md:m-3" alt="logo" />
 
           <div class="flex md:order-2">
         <a href="tel:+32484794493"><button type="button" class="sm:hidden text-white bg-secondary hover:bg-secondary-hover focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0">Bel ons</button></a>
@@ -15,22 +15,22 @@
         <ul class="md:flex mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium transition-all ease-in-out duration-300"
             :class="[open ? '' :'hidden']">
           <li>
-            <a href="" class="block py-2 pr-4 pl-3 text-white bg-secondary hover:bg-secondary-hover md:hover:bg-transparent rounded md:bg-transparent md:text-secondary md:p-0" aria-current="page">Home</a>
+            <a href="" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-white bg-secondary hover:bg-secondary-hover md:hover:bg-transparent rounded md:bg-transparent md:text-secondary md:p-0" aria-current="page">Home</a>
           </li>
           <li>
-            <a href="#info-card" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Diensten</a>
+            <a href="#info-card" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Diensten</a>
           </li>
           <li>
-            <a href="#aboutus" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Over Ons</a>
+            <a href="#aboutus" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Over Ons</a>
           </li>
           <li>
-            <a href="#partners" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Partners</a>
+            <a href="#partners" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Partners</a>
           </li>
           <li>
-            <a href="#team" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Team</a>
+            <a href="#team" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Team</a>
           </li>
           <li>
-            <a href="#contactform" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Contact</a>
+            <a href="#contactform" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Contact</a>
           </li>
         </ul>
       </div>
