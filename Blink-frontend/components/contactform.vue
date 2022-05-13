@@ -16,13 +16,14 @@
               </a>
             </div>
             <div class="bg-white shadow-lg rounded-lg p-2 px-4 hover:scale-105 transition-all duration-300 hover:bg-secondary hover:text-white">
-              <div class="flex flex-cols m-2 justify-center">
+             <a href="mailto:sandigas2547@gmail.com"> <div class="flex flex-cols m-2 justify-center">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-envelope-open" viewBox="0 0 16 16">
                   <path d="M8.47 1.318a1 1 0 0 0-.94 0l-6 3.2A1 1 0 0 0 1 5.4v.817l5.75 3.45L8 8.917l1.25.75L15 6.217V5.4a1 1 0 0 0-.53-.882l-6-3.2ZM15 7.383l-4.778 2.867L15 13.117V7.383Zm-.035 6.88L8 10.082l-6.965 4.18A1 1 0 0 0 2 15h12a1 1 0 0 0 .965-.738ZM1 13.116l4.778-2.867L1 7.383v5.734ZM7.059.435a2 2 0 0 1 1.882 0l6 3.2A2 2 0 0 1 16 5.4V14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V5.4a2 2 0 0 1 1.059-1.765l6-3.2Z"/>
                 </svg>
                 <p class="font-semibold">
                   &nbsp sandigas2547@gmail.com</p>
               </div>
+              </a>
             </div>
           </div>
           <form action="https://formsubmit.co/sandigas2547@gmail.com " method="post">
