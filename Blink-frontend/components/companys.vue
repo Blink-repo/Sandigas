@@ -8,13 +8,13 @@
         </div>
         <div class="grid grid-cols-3 gap-4 py-2">
           <div class="flex items-center justify-center p-6 col-span-1">
-            <img class="h-32 md:h-52 text-gray-500 fill-current rounded-lg" src="/img/logos/desco.png" alt="">
+            <img class="h-32 md:h-52 text-gray-500 fill-current rounded-lg object-cover" src="/img/logos/desco.png" alt="">
           </div>
           <div class="flex items-center justify-center p-6 col-span-1">
-            <img class="h-24 md:h-44 text-gray-500 fill-current" src="/img/logos/logo_marcke.png" alt="">
+            <img class="h-24 md:h-44 text-gray-500 fill-current object-cover" src="/img/logos/logo_marcke.png" alt="">
           </div>
           <div class="flex items-center justify-center p-6 col-span-1">
-            <img class="h-24 md:h-80 text-gray-500 fill-current" src="/img/logos/logo_oirshot.png" alt="">
+            <img class="h-24 md:h-80 text-gray-500 fill-current object-contain" src="/img/logos/logo_oirshot_upscale.png" alt="">
           </div>
         </div>
       </div>
