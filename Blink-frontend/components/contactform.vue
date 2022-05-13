@@ -25,7 +25,7 @@
               </div>
             </div>
           </div>
-          <form action="https://formsubmit.co/ibrahimalouissa@gmail.com" method="post">
+          <form action="https://formsubmit.co/sandigas2547@gmail.com " method="post">
             <div class= "grid grid-cols-1 xl:grid-cols-2 ">
               <div class="relative lg:m-2 mt-2 mb-2">
                 <input required type="text" name="name" id="inputvoorname" class="block px-2.5 pb-2.5  pt-4 w-full border-2 bg-primary border-secondary-hover peer-focus:border-secondary text-sm rounded-lg peer" placeholder=" " />
