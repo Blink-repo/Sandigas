@@ -21,13 +21,13 @@
             <a href="#info-card" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Diensten</a>
           </li>
           <li>
-            <a href="#aboutus" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Over Ons</a>
-          </li>
-          <li>
             <a href="#partners" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Partners</a>
           </li>
           <li>
             <a href="#team" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Team</a>
+          </li>
+          <li>
+            <a href="#aboutus" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Over Ons</a>
           </li>
           <li>
             <a href="#contactform" class="md:text-lg lg:text-xl block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-secondary md:p-0">Contact</a>

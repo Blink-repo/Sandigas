@@ -1,11 +1,11 @@
 <template>
-  <div>
-    <div class="flex justify-center">
-      <h1 class="text-4xl font-semibold">Onze <span class="text-secondary">Partners</span></h1>
-    </div>
-    <img src="/img/wavestop.svg" alt="" class="rotate-180">
+  <div class="">
+    <img src="/img/layered-waves2.svg" alt="" class="object-cover w-full">
     <section class="flex justify-center items-center bg-primary">
       <div class="max-w-7xl">
+        <div class="flex justify-center">
+          <h1 class="text-4xl font-semibold">Onze <span class="text-secondary">Partners</span></h1>
+        </div>
         <div class="grid grid-cols-3 gap-4 py-2">
           <div class="flex items-center justify-center p-6 col-span-1">
             <img class="h-32 md:h-52 text-gray-500 fill-current rounded-lg" src="/img/logos/desco.png" alt="">
@@ -19,7 +19,7 @@
         </div>
       </div>
     </section>
-    <img src="/img/wavestop.svg" alt="">
+    <img src="/img/layered-waves2.svg" alt="" class="rotate-180 object-cover w-full">
   </div>
 
 </template>
@@ -33,5 +33,9 @@ export default {
 <style scoped>
 *{
   line-height: 0;
+}
+
+.waves{
+  background-size: cover;
 }
 </style>
