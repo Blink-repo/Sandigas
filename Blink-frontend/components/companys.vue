@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <img src="/img/layered-waves2.svg" alt="" class="object-cover w-full">
-    <section class="flex justify-center items-center bg-primary">
+    <section class="flex justify-center items-center bg-primary py-12">
       <div class="max-w-7xl">
         <div class="flex justify-center">
           <h1 class="text-4xl font-semibold">Onze <span class="text-secondary">Partners</span></h1>
